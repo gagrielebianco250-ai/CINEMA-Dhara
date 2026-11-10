@@ -1,9 +1,11 @@
-Solicitação do Cliente Dhara Fitness.
-Cliente 01 – ACADEMIA DHARA FITNESS.
-A academia precisa de um sistema que verifique se uma pessoa pode realizar sua matrícula.
+Solicitação do Cliente Cinema da Dhara.
+Cliente 01 – Cinema DHARA.
+A cinema precisa de um sistema que registre a venda dos ingressos de uma sessão.
 Regras do sistema:
-- Pessoas menores de 16 anos não podem realizar a matrícula.
-- Pessoas entre 16 e 17 anos precisam de autorização.
-- Pessoas com 18 anos ou mais podem realizar matrícula normalmente.
+-  a sala é pequena apenas para 20 pessoas;
+- Não pode vender mais que 20 ingressos disponíveis;
+- Quando esgotar os ingressos informar que a sessão está lotada.
 
-Desafio lógico. Como construir uma seqüência de decisões para verificar a situação de cada cliente?
+Desafio lógico. Como construir uma seqüência de decisões para verificar a situação de cada ingresso?
+1) desafio, definir quanto tempo leva para desenvolver o programa?
+
