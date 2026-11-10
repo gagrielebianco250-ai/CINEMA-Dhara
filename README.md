@@ -9,3 +9,9 @@ Regras do sistema:
 Desafio lógico. Como construir uma seqüência de decisões para verificar a situação de cada ingresso?
 1) desafio, definir quanto tempo leva para desenvolver o programa?
 
+
+
+
+P.O
+1 hora para concluir a programação
+
