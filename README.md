@@ -20,7 +20,7 @@ rafaela:20 min
 gisele:20 min 
 naomy:20 min 
 
-______ Analista  sistemas, Naomy e gisele fzeno pela rose:
+______ Analista  sistemas, Naomy e Gisele fizemos em nome da  Rose:
 
 1- vai precisar de um menu com o titulo do filme, com a classificação indicativa do filme como LIVRE, como vai ser só uma sessão por enquanto, precisa de um horário inicial com tempo de duração do filme. exemplo do horário e duração: sessão às 19 horas com duração de 180 minutos .
 o usuario seleciona e vai para o menu de valores, se valor de R$ inteira ou R$ meia entrada.
