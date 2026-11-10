@@ -15,3 +15,8 @@ Desafio lógico. Como construir uma seqüência de decisões para verificar a si
 P.O
 1 hora para concluir a programação
 
+manu:20 min
+rafaela:20 min
+gisele:20 min 
+naomy:20 min 
+
