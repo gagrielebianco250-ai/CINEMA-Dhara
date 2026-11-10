@@ -37,7 +37,12 @@ DATA 10 NOVEMBRO DE 2026.
 
 CLIENTE SOLICITOU ALTERAÇÕES DE ACRESCIMO NO PROGRAMA, O QUE ESTA SOLICITADO ANTERIORMENTE, SE MANTEM. REFORÇANDO E PARA ACRESENTAR AO QUE JA FOI SOLICITADO.
 
-1 ALTERAÇÃO: Cliente agora tem mais de um filme no cinema, pode cadastrar mais 4 sessões.  total se 5 filmes em cartaz.
+1 ALTERAÇÃO: Cliente agora tem mais de um filme no cinema, pode cadastrar mais 2 FILMES.  total se 3 filmes em cartaz. E UMA SESSÃO POR FILME , POR DIA.   
+
+OBS: UM SESSÃO DE 100 MINUTOS INICIO DA TARDE POR VOLTA DAS 13 HORAS,
+UMA SESSÃO DE 120 MINUTOS NO MEIO DA TARDE POR 16 HORAS.
+UMA SESSÃO DE 180 MINUTOS NO INICIO DA NOITE POR VOLTA DAS 19 HORAS.
+
 2 ALTERAÇÃO: vai ter opção de escolher os dias da semana de segunda-feira a domingo, não precisa de data apenas os dias da semana.
 3 ALTERAÇÃO QUE DEVE CONSTAR NO TIKET DO CINEMA: Vai ter que constar os seguintes itens:
       NOME DO CLIENTE QUE COMPROU O INGRESSO E QUANTIDADE DE INGRESSOS ADQUIRIDOS;
